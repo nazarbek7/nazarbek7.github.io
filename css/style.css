@@ -759,6 +759,16 @@ body.offcanvas #cv-main, body.offcanvas .cv-nav-toggle {
     background: #2fa499;
 }
 
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-aikosoft {
+    background: #241f21;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-growave {
+    background: #11ABEC;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-speedimize {
+    background: #ef5350;
+}
+
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
     background: #fff;
     width: 20px;
