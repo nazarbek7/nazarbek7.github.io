@@ -769,6 +769,10 @@ body.offcanvas #cv-main, body.offcanvas .cv-nav-toggle {
     background: #ef5350;
 }
 
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-lily {
+    background: #6D5DD5;
+}
+
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
     background: #fff;
     width: 20px;
